@@ -34,7 +34,7 @@ clone the project and then run the command npm install -->
 
 | Behavior | Input | Output |  Completed(Y/N?)  |
 | -------- | ----- | ------ | -------- |
-|    |   |    |    |
+|  Should Correctly Create a Triangle Object with Three Lengths  | User Input: 2, 4, 5  |  Yes, this is a triangle  |    |
 
 
 ## Known Bugs
