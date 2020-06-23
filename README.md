@@ -35,8 +35,8 @@ clone the project and then run the command npm install -->
 | Behavior | Input | Output |  Completed(Y/N?)  |
 | -------- | ----- | ------ | -------- |
 |  Should Correctly Create a Triangle Object with Three Lengths  | User Input: 2, 4, 5  |  Yes, this is a triangle  |  Y  |
-|  Should correctly determine whether three lengths are not a triangle  |  User Input: 3, 9, 22  |  This is not a triangle  |    |
-
+|  Should correctly determine whether three lengths are not a triangle  |  User Input: 3, 9, 22  |  This is not a triangle  |  Y  |
+| Determine Whether Three Lengths Make a Scalene Triangle | User Input: 4, 5, 7 | This is a scalene triangle | Y |
 
 ## Known Bugs
 
