@@ -14,5 +14,8 @@ describe ('Triangle', () => {
     expect(notTriangle.checkType()).toEqual("not a triangle");
   });
 
+  test('should correctly determine where three lengths make a scalene triangle', function() {
+    const scalTriangle = new Triangle (4,5,7)
+    expect(scalTriangle.checkType()).toEqual("scalene triangle");
+  });
 });
-
