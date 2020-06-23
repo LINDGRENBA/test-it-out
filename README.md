@@ -1,18 +1,18 @@
-# PROJECT NAME
+ # Triangle Tracker
 
-#### BRIEF TAGLINE about project - Company or School project is for, 00.00.0000(date)
+#### Test Driven Development and Environments with JavaScript Testing - Epicodus, 06.23.2020
 
-## By AUTHOR NAME OR NAMES
+## By Christine Augustine,Johnny Duverseau, Brittany Lindgren
 
 ## Description
 
-Short paragraph about the project. Like an elevator pitch. Include link to project on gh-pages Click on the link to [see this project in your browser](GH-PAGES URL HERE).
+This application will display to the user whether their 3 inputs are a triangle. If it is a triangle, the application will display what type of triangle it is. 
 
 ## Setup/Installation Requirements
 
 | Steps | Example |
 | -------- | ----- |
-|  1. Follow this [link to the project repository](LINK HERE) on GitHub.   |    |    
+|  1. Follow this [link to the project repository](https://github.com/LINDGRENBA/test-it-out) on GitHub.   |    |    
 |  2. Click on the "Clone or download" button to copy the project link.   |   ![Image of GitHub Clone or download button](img/readme/clone-download-button.PNG)   |   
 |  3. If you are comfortable with the command line, you can copy the project link and clone it through your commad line with the command `git clone`. Otherwise, I recommend choosing "**Download ZIP**".   |   ![Download ZIP option on GitHub](img/readme/download-zip.PNG)  |   
 |   4. Once the ZIP file has finished downloading, you can right click on the file to view the zip folder in your downloads.   |   ![ZIP folder in downloads](img/readme/zip-folder.PNG)  |   
@@ -50,17 +50,17 @@ Please feel free to contact me through GitHub (username: LINDGRENBA) with any qu
 
 ## Technologies Used
 
-<!-- * HTML5
-* CSS3
-* Bootstrap v-3.3.7
-* JavaScript
-* jQuery v-3.5.0
-* Visual Studio Code 
-* Git and Git BASH 
-* npm package manager -->
+* Markdown
+* Git
+* HTML
+* CSS
+* jQuery & Javascript
+* Jest
+* Webpack
+* EsLint
 
 ### License
 
 *This site is licensed under the MIT license.*
 
-Copyright (c) 2020 **_Brittany A Lindgren_**
+Copyright (c) 2020 **_Christine Augustine,Johnny Duverseau, Brittany Lindgren_**
